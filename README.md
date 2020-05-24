@@ -7,7 +7,7 @@ There is no seperate source code for the project.
 
 The Chat-Bot is not made public yet due to facebook policies.
 
-Please visit the youtube video for the live demo : ------------------------------------
+Please visit the youtube video for the live demo : https://youtu.be/SJjtpmXUAvE
 
 We will make the chat-bot public soon. As this is the submission for hackathon it is still under development and we do not have facebook compliance.
 
