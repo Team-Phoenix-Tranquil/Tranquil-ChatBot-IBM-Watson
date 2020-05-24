@@ -12,6 +12,9 @@ Please visit the youtube video for the live demo : -----------------------------
 We will make the chat-bot public soon. As this is the submission for hackathon it is still under development and we do not have facebook compliance.
 
 
+FACEBOOK PAGE LINK : https://www.facebook.com/Tranquil-109062107486686/?modal=admin_todo_tour
+
+
 Algorithm:
 __________
 
