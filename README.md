@@ -5,7 +5,7 @@ This chatbot has been developed using IBM Watson Assistant, which is available i
 
 There is no seperate source code for the project.
 
-The messenger is not made public yet due to facebook policies.
+The Chat-Bot is not made public yet due to facebook policies.
 
 Please visit the youtube video for the live demo : ------------------------------------
 
